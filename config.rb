@@ -5,6 +5,8 @@
 # Susy grids in Compass
 # First: gem install compass-susy-plugin
 # require 'susy'
+
+# When using CodeKit an absolute path to any Compass plugins must be used
 require '/Users/tyom/.rvm/gems/ruby-1.9.2-p290/gems/susy-1.0.rc.1/lib/susy'
 
 # Change Compass configuration
